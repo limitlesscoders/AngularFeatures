@@ -6,7 +6,7 @@ import { Component, OnInit, OnDestroy } from '@angular/core';
   styleUrls: ['./app.component.sass']
 })
 export class AppComponent implements OnInit, OnDestroy {
-  public title = 'AngularFeaturesApp';
+  public title = 'LimitLessCoders | AngularFeaturesApp';
   public features: any;
   constructor(){
 
